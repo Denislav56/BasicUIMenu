@@ -1,0 +1,14 @@
+D:\Things\Visual Studio Things\Class_Exercises\BasicUIMenu\bin\Debug\net8.0\BasicUIMenu.exe
+D:\Things\Visual Studio Things\Class_Exercises\BasicUIMenu\bin\Debug\net8.0\BasicUIMenu.deps.json
+D:\Things\Visual Studio Things\Class_Exercises\BasicUIMenu\bin\Debug\net8.0\BasicUIMenu.runtimeconfig.json
+D:\Things\Visual Studio Things\Class_Exercises\BasicUIMenu\bin\Debug\net8.0\BasicUIMenu.dll
+D:\Things\Visual Studio Things\Class_Exercises\BasicUIMenu\bin\Debug\net8.0\BasicUIMenu.pdb
+D:\Things\Visual Studio Things\Class_Exercises\BasicUIMenu\obj\Debug\net8.0\BasicUIMenu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Things\Visual Studio Things\Class_Exercises\BasicUIMenu\obj\Debug\net8.0\BasicUIMenu.AssemblyInfoInputs.cache
+D:\Things\Visual Studio Things\Class_Exercises\BasicUIMenu\obj\Debug\net8.0\BasicUIMenu.AssemblyInfo.cs
+D:\Things\Visual Studio Things\Class_Exercises\BasicUIMenu\obj\Debug\net8.0\BasicUIMenu.csproj.CoreCompileInputs.cache
+D:\Things\Visual Studio Things\Class_Exercises\BasicUIMenu\obj\Debug\net8.0\BasicUIMenu.dll
+D:\Things\Visual Studio Things\Class_Exercises\BasicUIMenu\obj\Debug\net8.0\refint\BasicUIMenu.dll
+D:\Things\Visual Studio Things\Class_Exercises\BasicUIMenu\obj\Debug\net8.0\BasicUIMenu.pdb
+D:\Things\Visual Studio Things\Class_Exercises\BasicUIMenu\obj\Debug\net8.0\BasicUIMenu.genruntimeconfig.cache
+D:\Things\Visual Studio Things\Class_Exercises\BasicUIMenu\obj\Debug\net8.0\ref\BasicUIMenu.dll
